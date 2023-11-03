@@ -29,7 +29,8 @@ namespace QuanLyQuanAn
 
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Close();        }
+            this.Close();   
+        }
 
         private void thôngTinCaNhânToolStripMenuItem_Click(object sender, EventArgs e)
         {
